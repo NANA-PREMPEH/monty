@@ -5,7 +5,7 @@ if __name__ == "__main__":
 
     if x == 0:
         print("{} arguments.".format(x))
-    elif i == 1:
+    elif x == 1:
         print("{} argument:".format(x))
     else:
         print("{} arguments:".format(x))
